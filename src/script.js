@@ -37,7 +37,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'ich liebe dich',
+            'ich liebe dich nini',
             {
                 font: font,
                 size: 0.5,
